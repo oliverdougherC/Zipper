@@ -46,7 +46,7 @@ To use 7-Zip GUI, follow these steps:
 
 2. Run the main script:
    ```
-   python main.py
+   python3 main.py
    ```
 
 3. The GUI will open, allowing you to:
