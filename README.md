@@ -16,7 +16,7 @@ To install 7-Zip GUI, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/7zip-gui-mac.git
+   git clone https://github.com/oliverdougherC/Zipper
    cd Zipper
    ```
 
